@@ -5,3 +5,4 @@ Olá! Bem vindo ao meu livro de receitas :wave:
 - Strogonoff de frango
 - Pavê de doce de leite
 - Pudim
+- Bolo de aipim
